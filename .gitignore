@@ -1,0 +1,41 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Logs
+logs
+*.log
+log.txt
+
+# dotenv environment variables
+.env
+.env.*
+
+# OS
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store
+Icon?
+
+# Vite/React build output
+Frontend/dist/
+Frontend/.vite/
+
+# Backend build output (if any)
+Backend/dist/
+Backend/.cache/
+
+# Misc
+*.local
+coverage/
+*.tgz
+*.swp
+.vscode/
+.idea/
+.parcel-cache/
+
+
